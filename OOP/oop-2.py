@@ -1,4 +1,4 @@
-# 继承案例
+# 继承示例
 class Person():
     # 公开 public
     name = "chunhua"
@@ -49,6 +49,8 @@ print(my.study())
 4.子类中定义的成员和父类成员如果相同，则优先使用子类成员
 '''
 print(my.name)
+
+
 
 
 
