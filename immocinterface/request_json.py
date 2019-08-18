@@ -28,12 +28,10 @@ url2 = "http://www.kuaidi.com/index-ajaxselectinfo-1202247993797.html"
 
 r2 = s.get(url2, headers=header, verify=False)
 result = r2.json()
+print(type(result))
 
-
-for k,v in result.items():
-    print("编号为{0}的数据是{1}".format(k,v))
-
-# data = result['0']
-# print(data)
-# get_name = data['name']
-# print(get_name)
+print(result['9']['name'])
+print(result['9']['exname'])
+print(result['9']['ico'])
+print(result['9']['url'])
+print(result['9']['phone'])
