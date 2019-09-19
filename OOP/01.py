@@ -15,8 +15,8 @@ mingyue = Student()
 
 
 # 在定义一个类，用来描述听python的学生
-class PythonStudent(): # class关键字 + PythonStudent() 类名单词首字母大写 + 冒号：
-    # 用None 给不确定的值赋值
+class PythonStudent(): # class关键字 + PythonStudent() 类名<单词首字母大写> + 冒号：
+    # 用None 给不确定的属性值赋值
     # 定义变量的属性名及赋值
     name = None
     age = 18
@@ -37,7 +37,7 @@ yueyue = PythonStudent()
 print(yueyue.name)
 print(yueyue.age)
 print(yueyue.course)
-# 注意成员函数的调用没有传递进入参数
+# 注意成员函数的调用没有传递进入参数，此时，python会自动将对象yueyue做为第一个变量自动传给self
 yueyue.doHomework()
 
 # 打印查看PythonStudent类内所有的成员
@@ -53,6 +53,7 @@ class A():
         self.name = "guochunhua"
         self.age = 30
 # 此案例说明
+
 '''
 类实例的属性（A.name）和其对象实例的属性（a.name），如果不进行对象的实例属性赋值（a.name！= "xxx"）,
 则两者指向的为同一个变量(id值不变)
@@ -116,13 +117,13 @@ print("this is self ------------------------")
 class StudentA():
     name = "chunhua"
     age = 18
-
+    # 非绑定类方法
     def my_info(self):
         self.name = "huahua"
         self.age = 200
         print("My name is {0}".format(self.name))
         print("My age is {0}".format(self.age))
-
+# 实例化一个对象
 my = StudentA()
 # 对象my把自己作为参数传入函数my_info()中
 # 即self.name 等价于 my.name ; self.age 等价于 my.age
@@ -135,15 +136,17 @@ class Teacher():
     name = "laoshi"
     age = 20
 
-    # 定义一个非绑定类的方法
+    # 定义一个非绑定类的方法，亦可称 绑定到对象的方法<未被装饰器装饰>，这类方法专门为对象定制
     def he_self(self):
         self.name = "liudana"
         self.age = 30
         print("My name is {0}".format(self.name))
         print("My age is {0}".format(self.age))
+
     # 定义一个绑定类的方法
     def he_he():
         print("他说他是python老司机...")
+        print("类访问绑定类的方法，尝试调用类中的成员为：%s" %__class__.name)
 
 ta = Teacher()
 # 调用非绑定类函数使用对象名
@@ -166,3 +169,6 @@ print(Person.__dict__)
 # __age 是私有变量
 #可以使用对象._classname__attributename访问
 print(p._Person__age)
+
+import random
+print(random.randint(0,99999999999999999999999999999999999))

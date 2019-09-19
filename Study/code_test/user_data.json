@@ -1,0 +1,8 @@
+[
+  {"name":"jack","password":"Iloverose"},
+  {"name":"rose","password":"Ilovejack"},
+  {"name":"tom","password":"password123"},
+  {"name":"jerry","password":"password"},
+  {"name":"fred","password":"123456"},
+  {"name":"elma","password":"654321"}
+]
