@@ -1,0 +1,6 @@
+数据驱动接口自动化测试实现方式：
+1.实现读取数据readCSV()方法
+2.实现请求接口get_request()方法 和 post_request()方法
+3.实现结果断言assertResult()方法
+4.实现将测试结果写回csv文件的writeCSV()方法
+5.最后整体演示，调用test_interface()方法
