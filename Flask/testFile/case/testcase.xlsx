@@ -1,0 +1,4 @@
+name	path	query	method
+login	/login	name=xiaoming&pwd=111	post
+login_error	/login	name=xiaohong&pwd=123	post
+login_null	/login		post
