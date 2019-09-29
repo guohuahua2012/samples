@@ -2,17 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ed4a34d-d64c-409c-a01a-c56102a80fc7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Flask/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Flask/cofing.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Flask/common/configHttp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Flask/geturlParams.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Flask/readConfig.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Flask/readExcel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Flask/testCase/test01case.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Flask/testFile/case/test01.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Flask/testFile/case/testcase.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Flask/test_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Study/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Study/project_study/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Study/project_study/config.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Study/project_study/os_path.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Study/project_study/readConfig.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Study/project_study/readExcel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Study/project_study/sendEmail.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Study/project_study/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Study/request/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/code_test/class_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/code_test/class_test01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/code_test/connect_mysql_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/code_test/del_data_mysql.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/code_test/flask_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/code_test/insert_data_mysql.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/code_test/open.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/code_test/python" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/code_test/re_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/code_test/select_data_mysql.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/code_test/test_code.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/code_test/test_password_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/code_test/test_password_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/code_test/test_password_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/code_test/test_xlsx.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/code_test/update_mysql.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/code_test/user_data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/code_test/v2ex_api_case.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/code_test/无题.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/email/send_email.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/log/log_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/log/log_test01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/open_file/open_file.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/open_file/testflie.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Study/read_excel.py" beforeDir="false" afterPath="$PROJECT_DIR$/Study/read_excel.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,79 +47,54 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Flask/test_api.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
-              <folding>
-                <element signature="e#24#36#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Flask/cofing.ini">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="4" selection-start-line="4" selection-end-line="4" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Flask/readConfig.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" column="17" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Flask/readExcel.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" column="42" lean-forward="true" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
-              <folding>
-                <element signature="e#24#30#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Flask/common/configHttp.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="13" />
-              <folding>
-                <element signature="e#24#39#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Flask/geturlParams.py">
+        <entry file="file://$PROJECT_DIR$/Study/project_study/readConfig.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="264">
-              <caret line="12" column="15" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="15" />
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
               <folding>
-                <element signature="e#24#34#0" expanded="true" />
+                <element signature="e#25#34#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Anaconda3/envs/OOP/Lib/configparser.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="181">
+              <caret line="1183" column="6" selection-start-line="1183" selection-start-column="6" selection-end-line="1183" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Study/project_study/config.ini">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Study/project_study/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="11" lean-forward="true" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Flask/testCase/test01case.py">
+        <entry file="file://$PROJECT_DIR$/Study/project_study/sendEmail.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-              <folding>
-                <element signature="e#24#34#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="264">
+              <caret line="17" selection-start-line="17" selection-end-line="17" selection-end-column="14" />
+              <caret line="16" selection-start-line="16" selection-end-line="16" selection-end-column="14" />
+              <caret line="15" selection-start-line="15" selection-end-line="15" selection-end-column="14" />
+              <caret line="14" selection-start-line="14" selection-end-line="14" selection-end-column="14" />
+              <caret line="13" selection-start-line="13" selection-end-line="13" selection-end-column="14" />
+              <caret line="12" selection-start-line="12" selection-end-line="12" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -123,17 +121,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/unittest_test/search_test.py" />
-        <option value="$PROJECT_DIR$/TestBaidu/runtest_report.py" />
-        <option value="$PROJECT_DIR$/Study/code_test/v2ex_api_case.py" />
-        <option value="$PROJECT_DIR$/Study/code_test/run_test.py" />
-        <option value="$PROJECT_DIR$/Study/code_test/flask_test.py" />
-        <option value="$PROJECT_DIR$/Study/code_test/test_passwrod_1.py" />
-        <option value="$PROJECT_DIR$/Study/code_test/test_password_1.py" />
-        <option value="$PROJECT_DIR$/Study/code_test/test_password_2.py" />
-        <option value="$PROJECT_DIR$/Study/code_test/user_data.json" />
-        <option value="$PROJECT_DIR$/Study/code_test/test_password_3.py" />
-        <option value="$PROJECT_DIR$/Study/code_test/无题.txt" />
         <option value="$PROJECT_DIR$/Study/code_test/test_code.py" />
         <option value="$PROJECT_DIR$/Inter_Face_API/base/runmethod.py" />
         <option value="$PROJECT_DIR$/Study/request/urllib.py" />
@@ -155,7 +142,6 @@
         <option value="$PROJECT_DIR$/Study/request/request_get_test.py" />
         <option value="$PROJECT_DIR$/Study/request/request_post_test.py" />
         <option value="$PROJECT_DIR$/Study/request/request_def_test.py" />
-        <option value="$PROJECT_DIR$/Study/request/request_class_test.py" />
         <option value="$PROJECT_DIR$/CSV_DATA_INTERFACE/read_csv_def_test.py" />
         <option value="$PROJECT_DIR$/CSV_DATA_INTERFACE/read_csv_test.py" />
         <option value="$PROJECT_DIR$/CSV_DATA_INTERFACE/reader_csv_test.py" />
@@ -168,19 +154,31 @@
         <option value="$PROJECT_DIR$/Flask/cofing.txt" />
         <option value="$PROJECT_DIR$/Flask/cofing.ini" />
         <option value="$PROJECT_DIR$/Flask/readConfig.py" />
-        <option value="$PROJECT_DIR$/Study/read_excel.py" />
         <option value="$PROJECT_DIR$/Flask/readExcel.py" />
         <option value="$PROJECT_DIR$/Flask/common/configHttp.py" />
         <option value="$PROJECT_DIR$/Flask/__init__.py" />
         <option value="$PROJECT_DIR$/Flask/geturlParams.py" />
         <option value="$PROJECT_DIR$/Flask/testCase/test01case.py" />
+        <option value="$PROJECT_DIR$/Study/project_study/writeConfig.py" />
+        <option value="$PROJECT_DIR$/Study/project_study/config1.ini" />
+        <option value="$PROJECT_DIR$/Study/project_study/os_path.py" />
+        <option value="$PROJECT_DIR$/Study/read_excel.py" />
+        <option value="$PROJECT_DIR$/Study/project_study/readExcel.py" />
+        <option value="$PROJECT_DIR$/Study/project_study/__init__.py" />
+        <option value="$PROJECT_DIR$/Study/project_study/test.py" />
+        <option value="$PROJECT_DIR$/Study/project_study/config.ini" />
+        <option value="$PROJECT_DIR$/Study/__init__.py" />
+        <option value="$PROJECT_DIR$/Study/request/__init__.py" />
+        <option value="$PROJECT_DIR$/Study/request/request_class_test.py" />
+        <option value="$PROJECT_DIR$/Study/project_study/readConfig.py" />
+        <option value="$PROJECT_DIR$/Study/project_study/sendEmail.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="86" />
-    <option name="y" value="52" />
-    <option name="width" value="1784" />
+    <option name="x" value="308" />
+    <option name="y" value="132" />
+    <option name="width" value="1334" />
     <option name="height" value="923" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -202,18 +200,19 @@
             <path>
               <item name="samples" type="b2602c69:ProjectViewProjectNode" />
               <item name="samples" type="462c0819:PsiDirectoryNode" />
-              <item name="Flask" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="samples" type="b2602c69:ProjectViewProjectNode" />
-              <item name="samples" type="462c0819:PsiDirectoryNode" />
-              <item name="Flask" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="Study" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="samples" type="b2602c69:ProjectViewProjectNode" />
               <item name="samples" type="462c0819:PsiDirectoryNode" />
               <item name="Study" type="462c0819:PsiDirectoryNode" />
+              <item name="project_study" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="samples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="samples" type="462c0819:PsiDirectoryNode" />
+              <item name="Study" type="462c0819:PsiDirectoryNode" />
+              <item name="request" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="samples" type="b2602c69:ProjectViewProjectNode" />
@@ -254,49 +253,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test01case">
-    <configuration name="configHttp" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="samples" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Flask/common" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Flask/common/configHttp.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="geturlParams" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="samples" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Flask" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Flask/geturlParams.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.sendEmail">
     <configuration name="login_163@" type="PythonConfigurationType" factoryName="Python">
       <module name="samples" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -318,7 +275,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="readConfig" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="os_path" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="samples" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -326,11 +283,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Flask" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Study/project_study" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Flask/readConfig.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Study/project_study/os_path.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -339,7 +296,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test01case" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="readExcel" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="samples" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -347,11 +304,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Flask/testCase" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Study/project_study" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Flask/testCase/test01case.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Study/project_study/readExcel.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -360,7 +317,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_api" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="read_excel" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="samples" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -368,11 +325,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Flask" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Study" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Flask/test_api.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Study/read_excel.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sendEmail" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="samples" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Study/project_study" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Study/project_study/sendEmail.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="samples" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Study/project_study" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Study/project_study/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -383,11 +382,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test01case" />
-        <item itemvalue="Python.geturlParams" />
-        <item itemvalue="Python.readConfig" />
-        <item itemvalue="Python.configHttp" />
-        <item itemvalue="Python.test_api" />
+        <item itemvalue="Python.sendEmail" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.readExcel" />
+        <item itemvalue="Python.read_excel" />
+        <item itemvalue="Python.os_path" />
       </list>
     </recent_temporary>
   </component>
@@ -486,7 +485,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569494752962</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="updata code">
+      <created>1569578772894</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1569578772894</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -531,14 +537,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="86" y="52" width="1784" height="923" extended-state="0" />
+    <frame x="308" y="132" width="1334" height="923" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49911505" visible="true" weight="0.14490263" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49911505" visible="true" weight="0.19521604" />
       <window_info id="Structure" order="1" sideWeight="0.50088495" side_tool="true" weight="0.12065332" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.36746988" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6606955" visible="true" weight="0.37515843" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.36628643" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.6606955" visible="true" weight="0.27883396" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.30043384" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -557,7 +564,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.36746988" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.6606955" visible="true" weight="0.37515843" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.6606955" visible="true" weight="0.382763" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.30043384" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -586,151 +593,17 @@
     <option name="LAST_COMMIT_MESSAGE" value="updata code" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Anaconda3/envs/OOP/Lib/site-packages/urllib3/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-568" />
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Anaconda3/envs/OOP/Lib/urllib/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Study/request/urllib_test.py" />
-    <entry file="file://$USER_HOME$/Anaconda3/envs/OOP/Lib/urllib/request.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1391">
-          <caret line="130" column="41" selection-start-line="130" selection-start-column="41" selection-end-line="130" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Anaconda3/envs/OOP/Lib/ntpath.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-204">
-          <caret line="74" column="4" selection-start-line="74" selection-start-column="4" selection-end-line="74" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-1079993156/nt.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="651" column="67" lean-forward="true" selection-start-line="651" selection-start-column="8" selection-end-line="651" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Inter_Face_API/base/runmethod.py" />
-    <entry file="file://$PROJECT_DIR$/OOP/note.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-1571">
-            <caret line="79" column="19" selection-start-line="79" selection-start-column="19" selection-end-line="79" selection-end-column="19" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Study/code_test/class_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="29" column="7" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Study/code_test/class_test01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Study/open_file/testflie.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="15" selection-start-column="15" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Study/code_test/test_xlsx.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Study/code_test/select_data_mysql.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Study/code_test/update_mysql.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
-          <caret line="30" column="14" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Study/code_test/del_data_mysql.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Study/code_test/insert_data_mysql.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Study/code_test/connect_mysql_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="2" selection-start-line="2" selection-end-line="18" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Study/code_test/re_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Study/email/send_email.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Study/log/log_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#25#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Study/log/log_test01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="22" column="21" lean-forward="true" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Study/code_test/update_mysql.py" />
+    <entry file="file://$PROJECT_DIR$/Study/code_test/del_data_mysql.py" />
+    <entry file="file://$PROJECT_DIR$/Study/code_test/insert_data_mysql.py" />
+    <entry file="file://$PROJECT_DIR$/Study/code_test/connect_mysql_test.py" />
+    <entry file="file://$PROJECT_DIR$/Study/code_test/re_test.py" />
+    <entry file="file://$PROJECT_DIR$/Study/email/send_email.py" />
+    <entry file="file://$PROJECT_DIR$/Study/log/log_test.py" />
+    <entry file="file://$PROJECT_DIR$/Study/log/log_test01.py" />
     <entry file="file://$PROJECT_DIR$/Study/request/request_test.py" />
     <entry file="file://$USER_HOME$/Anaconda3/envs/OOP/Lib/site-packages/requests/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Study/request/request_class_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Study/request/request_def_test.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -848,13 +721,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Anaconda3/envs/OOP/Lib/configparser.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="1183" column="15" lean-forward="true" selection-start-line="1183" selection-start-column="15" selection-end-line="1183" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/docutils/writers/odf_odt/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1413">
@@ -862,70 +728,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Flask/getpathInfo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Study/open_file/open_file.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Study/read_excel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flask/readExcel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="42" lean-forward="true" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
-          <folding>
-            <element signature="e#24#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flask/test_api.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
-          <folding>
-            <element signature="e#24#36#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flask/cofing.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="4" selection-start-line="4" selection-end-line="4" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flask/readConfig.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="17" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Flask/getpathInfo.py" />
+    <entry file="file://$PROJECT_DIR$/Study/open_file/open_file.py" />
     <entry file="file://$PROJECT_DIR$/Flask/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Flask/common/configHttp.py">
+    <entry file="file://$PROJECT_DIR$/Flask/testCase/test01case.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="330">
+          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
           <folding>
-            <element signature="e#24#39#0" expanded="true" />
+            <element signature="e#24#34#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -940,13 +753,134 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Flask/testCase/test01case.py">
+    <entry file="file://$PROJECT_DIR$/Flask/common/configHttp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="e#24#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flask/readExcel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flask/readConfig.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flask/cofing.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="4" selection-start-line="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flask/test_api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+          <folding>
+            <element signature="e#24#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Study/project_study/cfg.ini" />
+    <entry file="file://$PROJECT_DIR$/Study/project_study/writeConfig.py" />
+    <entry file="file://$PROJECT_DIR$/Study/project_study/config1.ini" />
+    <entry file="file://$PROJECT_DIR$/Study/read_excel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/OOP/Lib/smtplib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="665" column="8" selection-start-line="665" selection-start-column="8" selection-end-line="665" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Study/project_study/os_path.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Study/project_study/readExcel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Study/project_study/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <caret line="6" column="11" lean-forward="true" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Study/project_study/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Study/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Study/request/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Study/project_study/config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Study/request/request_class_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/OOP/Lib/configparser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="1183" column="6" selection-start-line="1183" selection-start-column="6" selection-end-line="1183" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Study/project_study/readConfig.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
           <folding>
-            <element signature="e#24#34#0" expanded="true" />
+            <element signature="e#25#34#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Study/project_study/sendEmail.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="17" selection-start-line="17" selection-end-line="17" selection-end-column="14" />
+          <caret line="16" selection-start-line="16" selection-end-line="16" selection-end-column="14" />
+          <caret line="15" selection-start-line="15" selection-end-line="15" selection-end-column="14" />
+          <caret line="14" selection-start-line="14" selection-end-line="14" selection-end-column="14" />
+          <caret line="13" selection-start-line="13" selection-end-line="13" selection-end-column="14" />
+          <caret line="12" selection-start-line="12" selection-end-line="12" selection-end-column="14" />
         </state>
       </provider>
     </entry>
