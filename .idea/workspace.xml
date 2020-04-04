@@ -1,6 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
+    <list default="true" id="6ed4a34d-d64c-409c-a01a-c56102a80fc7" name="Default Changelist" comment="updata code">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceTest/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceTest/caselist.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceTest/common/HTMLTestRunner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceTest/common/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceTest/common/configDB.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceTest/common/configEmail.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceTest/common/configHttp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceTest/common/log.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceTest/config.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceTest/getpathInfo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceTest/geturlParams.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceTest/readConfig.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceTest/readExcel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceTest/result/logs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceTest/result/report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceTest/runAll.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceTest/testCase/test01case.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceTest/testFile/case/userCase.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceTest/test_sql.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Study/new_study/send_email_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/samples.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/samples.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask/test_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/InterfaceTest/test_api.py" afterDir="false" />
+=======
     <list default="true" id="6ed4a34d-d64c-409c-a01a-c56102a80fc7" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/Study/__init__.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Study/project_study/__init__.py" afterDir="false" />
@@ -12,6 +40,7 @@
       <change afterPath="$PROJECT_DIR$/Study/project_study/test.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Study/request/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> origin/master
       <change beforePath="$PROJECT_DIR$/Study/code_test/class_test.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Study/code_test/class_test01.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Study/code_test/connect_mysql_test.py" beforeDir="false" />
@@ -36,7 +65,17 @@
       <change beforePath="$PROJECT_DIR$/Study/log/log_test01.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Study/open_file/open_file.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Study/open_file/testflie.txt" beforeDir="false" />
+<<<<<<< HEAD
+      <change beforePath="$PROJECT_DIR$/Study/read_excel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/report_excel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/request/request_class_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/request/request_def_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/request/request_get_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/request/request_post_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/test.py" beforeDir="false" />
+=======
       <change beforePath="$PROJECT_DIR$/Study/read_excel.py" beforeDir="false" afterPath="$PROJECT_DIR$/Study/read_excel.py" afterDir="false" />
+>>>>>>> origin/master
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +83,8 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
+=======
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
@@ -101,6 +142,7 @@
       </file>
     </leaf>
   </component>
+>>>>>>> origin/master
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -109,15 +151,16 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <dirStrings>
-      <dir>E:\samples\unittest_test</dir>
-    </dirStrings>
-  </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< HEAD
+  <component name="ProjectId" id="1RQUAcrusIA1bWWwxCgglldb2KQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+=======
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -224,20 +267,23 @@
       </pane>
     </panes>
   </component>
+>>>>>>> origin/master
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="MANAGE_IGNORE_FILES_PROPERTY" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\samples\TEST" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Object\InterfaceTest" />
+      <recent name="D:\Object\InterfaceTest\testFile" />
       <recent name="E:\samples\Flask\testFile\case" />
       <recent name="E:\samples\Flask\test_00\templates" />
+      <recent name="E:\samples\TEST" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\samples\TEST" />
     </key>
   </component>
@@ -253,8 +299,13 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
+  <component name="RunManager" selected="Python.send_email_test">
+    <configuration name="configEmail" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
   <component name="RunManager" selected="Python.sendEmail">
     <configuration name="login_163@" type="PythonConfigurationType" factoryName="Python">
+>>>>>>> origin/master
       <module name="samples" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -262,11 +313,19 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+<<<<<<< HEAD
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/InterfaceTest/common" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/InterfaceTest/common/configEmail.py" />
+=======
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dataDrivenTestPractice1/TestScript/python" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dataDrivenTestPractice1/TestScript/python/login_163@.py" />
+>>>>>>> origin/master
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -275,7 +334,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
+    <configuration name="login_163@" type="PythonConfigurationType" factoryName="Python">
+=======
     <configuration name="os_path" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> origin/master
       <module name="samples" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -283,11 +346,19 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+<<<<<<< HEAD
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dataDrivenTestPractice1/TestScript/python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dataDrivenTestPractice1/TestScript/python/login_163@.py" />
+=======
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Study/project_study" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Study/project_study/os_path.py" />
+>>>>>>> origin/master
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -296,7 +367,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
+    <configuration name="send_email_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
     <configuration name="readExcel" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> origin/master
       <module name="samples" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -304,11 +379,19 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+<<<<<<< HEAD
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Study/new_study" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Study/new_study/send_email_test.py" />
+=======
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Study/project_study" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Study/project_study/readExcel.py" />
+>>>>>>> origin/master
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -317,14 +400,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
+    <configuration name="Unittests for test01case.testUserLogin" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+=======
     <configuration name="read_excel" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> origin/master
       <module name="samples" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
+<<<<<<< HEAD
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/InterfaceTest/testCase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test01case.testUserLogin&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test01case.testUserLogin.test01case" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+=======
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Study" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -339,13 +435,23 @@
       <method v="2" />
     </configuration>
     <configuration name="sendEmail" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> origin/master
       <module name="samples" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
+<<<<<<< HEAD
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/InterfaceTest/testCase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test01case.testUserLogin.test01case&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test01case.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+=======
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Study/project_study" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -360,13 +466,20 @@
       <method v="2" />
     </configuration>
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> origin/master
       <module name="samples" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
+<<<<<<< HEAD
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/InterfaceTest/testCase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/InterfaceTest/testCase/test01case.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+=======
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Study/project_study" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -378,15 +491,24 @@
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
+>>>>>>> origin/master
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
+        <item itemvalue="Python.send_email_test" />
+        <item itemvalue="Python tests.Unittests for test01case.testUserLogin" />
+        <item itemvalue="Python tests.Unittests in test01case.py" />
+        <item itemvalue="Python tests.Unittests for test01case.testUserLogin.test01case" />
+        <item itemvalue="Python.configEmail" />
+=======
         <item itemvalue="Python.sendEmail" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.readExcel" />
         <item itemvalue="Python.read_excel" />
         <item itemvalue="Python.os_path" />
+>>>>>>> origin/master
       </list>
     </recent_temporary>
   </component>
@@ -495,38 +617,6 @@
     <option name="localTasksCounter" value="14" />
     <servers />
   </component>
-  <component name="TestHistory">
-    <history-entry file="Unittests_for_test_password_1_PasswordTestCase - 2019.09.12 at 09h 23m 34s.xml">
-      <configuration name="Unittests for test_password_1.PasswordTestCase" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_test_password_1_py - 2019.09.12 at 09h 24m 56s.xml">
-      <configuration name="Unittests in test_password_1.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_test_password_1_py - 2019.09.12 at 09h 25m 25s.xml">
-      <configuration name="Unittests in test_password_1.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_test_password_1_py - 2019.09.12 at 09h 25m 52s.xml">
-      <configuration name="Unittests in test_password_1.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_password_2_PasswordWithJsonTestCase_test_dummy - 2019.09.12 at 09h 42m 50s.xml">
-      <configuration name="Unittests for test_password_2.PasswordWithJsonTestCase.test_dummy" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_test_password_2_py - 2019.09.12 at 09h 43m 03s.xml">
-      <configuration name="Unittests in test_password_2.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_test_password_2_py - 2019.09.12 at 09h 43m 13s.xml">
-      <configuration name="Unittests in test_password_2.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_test_password_2_py - 2019.09.12 at 09h 43m 23s.xml">
-      <configuration name="Unittests in test_password_2.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_password_2_PasswordWithJsonTestCase - 2019.09.12 at 09h 46m 11s.xml">
-      <configuration name="Unittests for test_password_2.PasswordWithJsonTestCase" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_test_password_3_py - 2019.09.12 at 11h 46m 13s.xml">
-      <configuration name="Unittests in test_password_3.py" configurationId="tests" />
-    </history-entry>
-  </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
@@ -536,6 +626,8 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
+<<<<<<< HEAD
+=======
   <component name="ToolWindowManager">
     <frame x="308" y="132" width="1334" height="923" extended-state="0" />
     <editor active="true" />
@@ -578,8 +670,22 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout-to-restore>
   </component>
+>>>>>>> origin/master
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.conf" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
@@ -592,6 +698,8 @@
     <MESSAGE value="updata code" />
     <option name="LAST_COMMIT_MESSAGE" value="updata code" />
   </component>
+<<<<<<< HEAD
+=======
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Study/code_test/update_mysql.py" />
     <entry file="file://$PROJECT_DIR$/Study/code_test/del_data_mysql.py" />
@@ -885,6 +993,7 @@
       </provider>
     </entry>
   </component>
+>>>>>>> origin/master
   <component name="masterDetails">
     <states>
       <state key="ScopeChooserConfigurable.UI">
