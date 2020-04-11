@@ -5,7 +5,7 @@ import csv
 
 def get_csv_data():
     data_list = []
-    with open(r'D:\360MoveData\Users\ChunhuaGuo\Desktop\CM\unblock\4-4\No1.csv', 'r') as f:
+    with open(r'D:\360MoveData\Users\ChunhuaGuo\Desktop\CM\replacement\real_name\4-10\3\mobile.csv', 'r') as f:
         reader = csv.reader(f)
         # print(type(reader))
 
@@ -24,7 +24,7 @@ def get_user_id(mobile):
 
     headers = {
         "Content-Type":"application/x-www-form-urlencoded; charset=UTF-8",
-        "token":"ca01882cd15e1cdcf60fbcc1f0012e92"
+        "token":"6c0d7d40d88a411062d0bc0b608c3a2b"
     }
 
     data = {
@@ -34,14 +34,20 @@ def get_user_id(mobile):
     res = requests.post(url, headers=headers, data=data, verify=False)
     # print(res.json())
     # print(res.json()['data']['data'][0]['id'])
-    return res.json()['data']['data'][0]['id']
+    return res.json()
 
 
 data_list = get_csv_data()
 for i in data_list:
     user_id = get_user_id(i)
-    # print(user_id)
-    with open(r'D:\360MoveData\Users\ChunhuaGuo\Desktop\CM\unblock\4-4\No1_uid.csv', 'a') as data:
-        print(user_id, file=data)
+    total = user_id['data']['total']
+    if total == 0:
+        with open(r'D:\360MoveData\Users\ChunhuaGuo\Desktop\CM\replacement\real_name\4-10\3\mobile_id.csv', 'a', encoding='utf-8') as data:
+            print(i,'手机号未注册', file=data)
+        continue
+    else:
+        id = user_id['data']['data'][0]['id']
+        with open(r'D:\360MoveData\Users\ChunhuaGuo\Desktop\CM\replacement\real_name\4-10\3\mobile_id.csv', 'a') as data:
+            print(id, file=data)
 # user_id = get_user_id(18021946159)
 # print(user_id)
